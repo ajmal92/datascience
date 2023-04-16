@@ -1,3 +1,4 @@
 # datascience
 1. Netflix project - Data Visualization
-1. Aerofit project - Conditional Probability
+2. Aerofit project - Conditional Probability
+3. Walmart - Central Limit Theorem
