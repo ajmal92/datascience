@@ -4,3 +4,4 @@
 3. Walmart - Central Limit Theorem
 4. Yulu - Hypothesis Testing
 5. Delhivery - Feature Engineering
+6. Jambotree - Linear Regression
